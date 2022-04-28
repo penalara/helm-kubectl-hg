@@ -2,7 +2,7 @@
 
 Supported tags and release links
 
-* [3.8.2](https://github.com/phoneixs/helm-kubectl-hg/releases/tag/3.8.2) - helm-kubect v3.8.2, helm v3.8.2, kubectl v1.23.5, alpine 3.15
+* [3.8.3](https://github.com/phoneixs/helm-kubectl-hg/releases/tag/3.8.3) - helm-kubect v3.8.2, helm v3.8.2, kubectl v1.23.5, alpine 3.15
 
 ## Overview
 
